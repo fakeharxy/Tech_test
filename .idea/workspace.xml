@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a042bc-8b0e-4925-8fab-7a39670243e4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="movie-search" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="81" lean-forward="false" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TextInput.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/TextInput.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#27#0" expanded="true" />
+                <marker date="1508760098000" expanded="true" signature="357:358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputGroup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/InputGroup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#27#0" expanded="true" />
+                <marker date="1508760117000" expanded="true" signature="282:313" ph="..." />
+                <marker date="1508760117000" expanded="true" signature="369:370" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/components/MovieList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+              <folding>
+                <marker date="1508760403000" expanded="true" signature="1683:1684" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>movie-details__headermovie-details__header</find>
+      <find>&quot;</find>
+      <find>movie-details__overview</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/Views/Pages/SearchPage/index.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/api/TheMovieDbApi.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Views/Common/MovieTile/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/redux/reducers/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/actions/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/index.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App/Views/Containers/MovieList/MovieList.js" />
+        <option value="$PROJECT_DIR$/src/App/Views/Containers/MovieList/index.js" />
+        <option value="$PROJECT_DIR$/src/App/Views/Pages/SearchResultsPage/index.js" />
+        <option value="$PROJECT_DIR$/scripts/start.js" />
+        <option value="$PROJECT_DIR$/app/redux/App.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/config/paths.js" />
+        <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/app/redux/store/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Search/Search.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/MovieList.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/initialState.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/actions/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/constants/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Search/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/_dev-notes/notes.txt" />
+        <option value="$PROJECT_DIR$/app/api/TheMovieDbApi.js" />
+        <option value="$PROJECT_DIR$/app/redux/provider/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/TextInputField.js" />
+        <option value="$PROJECT_DIR$/app/redux/reducers/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Common/MovieTile/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/components/MovieDetail.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/components/Favourites.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/constants/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/actions/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/constants/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/initialState.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/initialState.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/actions/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Layout/MasterLayout.js" />
+        <option value="$PROJECT_DIR$/app/Views/Pages/SearchResultsPage/index.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Favourites/components/Favourites.js" />
+        <option value="$PROJECT_DIR$/app/Views/Common/PersonOverview/index.js" />
+        <option value="$PROJECT_DIR$/app/redux/middleware/Tracking.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieDetail/components/MovieDetail.js" />
+        <option value="$PROJECT_DIR$/app/Views/Pages/MovieDetailPage/index.js" />
+        <option value="$PROJECT_DIR$/app/App.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/Search/components/Search.js" />
+        <option value="$PROJECT_DIR$/app/Views/Pages/SearchPage/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/TextInput.js" />
+        <option value="$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/InputGroup.js" />
+        <option value="$PROJECT_DIR$/app/Views/Containers/MovieList/components/MovieList.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1604" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="movie-search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movie-search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-search" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_dev-notes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/Views/Containers/Search/components" />
+      <recent name="$PROJECT_DIR$/app/Views/Containers/MovieList/components" />
+      <recent name="$PROJECT_DIR$/app/Views/Common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Views/Common/ReduxFormComponents" />
+      <recent name="$PROJECT_DIR$/app/Views/Containers/Favourites" />
+      <recent name="$PROJECT_DIR$/app/Views/Common/PersonOverview" />
+      <recent name="$PROJECT_DIR$/app/Views/Containers/MovieDetail" />
+      <recent name="$PROJECT_DIR$/app/Views/Pages/MovieDetailPage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a042bc-8b0e-4925-8fab-7a39670243e4" name="Default" comment="" />
+      <created>1508579726000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508579726000</updated>
+      <workItem from="1508579727128" duration="23481000" />
+      <workItem from="1508629646745" duration="35145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58626000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1610" height="1027" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24844721" sideWeight="0.7895288" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25968587" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24844721" sideWeight="0.2104712" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20418848" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react/cjs/react.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="1665" column="2" lean-forward="false" selection-start-line="1665" selection-start-column="2" selection-end-line="1665" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="50" column="29" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/jest/cssTransform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/polyfills.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="e#82#108#0" expanded="false" />
+            <element signature="e#175#199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/initialState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="e#1#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#159#196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_dev-notes/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/TheMovieDbApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-form/es/Field.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/redux/provider/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/redux/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#84#146#0" expanded="false" />
+            <element signature="e#212#247#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Search/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/redux/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#87#127#0" expanded="false" />
+            <element signature="e#218#292#0" expanded="false" />
+            <marker date="1508752850000" expanded="true" signature="511:653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="58" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="e#119#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/initialState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/initialState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/constants/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#160#197#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Common/MovieTile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#88#114#0" expanded="false" />
+            <marker date="1508753176000" expanded="true" signature="1033:1733" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1050:1102" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1098:1102" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1126:1285" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1126:1401" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1322:1397" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1349:1391" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1426:1642" ph="{...}" />
+            <marker date="1508753176000" expanded="true" signature="1671:1732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Layout/MasterLayout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1508757543000" expanded="true" signature="371:448" ph="..." />
+            <marker date="1508757543000" expanded="true" signature="405:437" ph="..." />
+            <marker date="1508757543000" expanded="true" signature="591:661" ph="{...}" />
+            <marker date="1508757543000" expanded="true" signature="606:660" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Pages/SearchResultsPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#231#282#0" expanded="false" />
+            <marker date="1508757604000" expanded="true" signature="642:643" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Favourites/components/Favourites.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1508757624000" expanded="true" signature="849:1134" ph="{...}" />
+            <marker date="1508757624000" expanded="true" signature="865:986" ph="{...}" />
+            <marker date="1508757624000" expanded="true" signature="932:982" ph="{...}" />
+            <marker date="1508757624000" expanded="true" signature="1012:1133" ph="{...}" />
+            <marker date="1508757624000" expanded="true" signature="1075:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/redux/middleware/Tracking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieDetail/components/MovieDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="136" column="85" lean-forward="false" selection-start-line="136" selection-start-column="85" selection-end-line="136" selection-end-column="85" />
+          <folding>
+            <element signature="e#84#125#0" expanded="false" />
+            <element signature="e#235#295#0" expanded="false" />
+            <marker date="1508757844000" expanded="true" signature="4235:5393" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4262:4392" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4413:4490" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4522:4583" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4611:4658" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4693:4763" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4782:4939" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4808:4860" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4883:4935" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4939:5393" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4974:5014" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="4984:5010" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5037:5270" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5046:5266" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5059:5260" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5078:5114" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5143:5177" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5213:5252" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5295:5322" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5361:5391" ph="{...}" />
+            <marker date="1508757844000" expanded="true" signature="5392:5393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Pages/MovieDetailPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1508757871000" expanded="true" signature="626:627" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#82#108#0" expanded="false" />
+            <element signature="e#216#256#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Common/PersonOverview/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1508757650000" expanded="true" signature="492:493" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/paul_crump/seenit/repo/movie-search/app">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/app</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/app/App.js#MovieDetailPage#380;/Users/paul_crump/seenit/repo/movie-search/app/App.js#Provider#223;/Users/paul_crump/seenit/repo/movie-search/app/App.js#React#89;/Users/paul_crump/seenit/repo/movie-search/app/App.js#Route#143;/Users/paul_crump/seenit/repo/movie-search/app/App.js#Router#118;/Users/paul_crump/seenit/repo/movie-search/app/App.js#SearchPage#264;/Users/paul_crump/seenit/repo/movie-search/app/App.js#SearchResultsPage#315;/Users/paul_crump/seenit/repo/movie-search/app/App.js#Switch#150;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/components/Favourites.js#PropTypes#117;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Favourites/components/Favourites.js#React#90;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Favourites/components/Favourites.js#styled#153;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Layout/MasterLayout.js#PropTypes#119;/Users/paul_crump/seenit/repo/movie-search/app/Views/Layout/MasterLayout.js#React#92;/Users/paul_crump/seenit/repo/movie-search/app/Views/Layout/MasterLayout.js#styled#155;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/components/MovieDetail.js#Component#100;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/components/MovieDetail.js#Favourites#303;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/components/MovieDetail.js#PersonOverview#242;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/components/MovieDetail.js#PropTypes#133;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/components/MovieDetail.js#React#91;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/components/MovieDetail.js#styled#169;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/components/MovieList.js#Component#98;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/components/MovieList.js#MovieTile#285;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/components/MovieList.js#PropTypes#177;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/components/MovieList.js#React#89;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/components/MovieList.js#Redirect#133;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/components/MovieList.js#styled#213;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Search/components/Search.js#Component#95;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#Field#169;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#PropTypes#249;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#React#86;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#Redirect#327;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#SubmissionError#206;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#TextInputField#402;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#connect#130;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#formValueSelector#187;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#reduxForm#176;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/components/Search.js#styled#285;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/TextInputField.js#React#8;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/ReduxFormComponents/TextInputField.js#styled#35;</node>
+            <node x="" y="">$PROJECT_DIR$/app/api/TheMovieDbApi.js#axios#93;</node>
+            <node x="" y="">$PROJECT_DIR$/app/redux/middleware/Tracking.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/axios/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/redux/index.d.ts#applyMiddleware#11389;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux/index.d.ts#combineReducers#2351;compose;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux/index.d.ts#createStore#10782;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Search/index.js#Search#166;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Search/index.js#connect#97;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Common/MovieTile/index.js#Favourites#271;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/MovieTile/index.js#Link#124;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/MovieTile/index.js#PropTypes#163;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/MovieTile/index.js#React#95;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/MovieTile/index.js#styled#199;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/actions/index.js#TheMovieDbApi#50;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/actions/index.js#actions#8;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/index.js#MovieList#204;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/index.js#actions#166;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/index.js#connect#97;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Pages/SearchResultsPage/index.js#MasterLayout#290;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchResultsPage/index.js#MovieList#238;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchResultsPage/index.js#PropTypes#130;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchResultsPage/index.js#React#103;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchResultsPage/index.js#styled#166;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/actions/index.js#actions#8;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/index.js#actions#169;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Favourites/reducers/index.js#initialState#126;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Pages/MovieDetailPage/index.js#MasterLayout#286;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/MovieDetailPage/index.js#MovieDetail#230;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/MovieDetailPage/index.js#PropTypes#122;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/MovieDetailPage/index.js#React#95;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/MovieDetailPage/index.js#styled#158;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/constants/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/index.js#Favourites#205;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Favourites/index.js#actions#167;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/Favourites/index.js#connect#98;</node>
+            <node x="" y="">$PROJECT_DIR$/app/index.js#App#182;/Users/paul_crump/seenit/repo/movie-search/app/index.js#React#89;/Users/paul_crump/seenit/repo/movie-search/app/index.js#ReactDOM#116;/Users/paul_crump/seenit/repo/movie-search/app/index.js#registerServiceWorker#207;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/constants/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/redux/reducers/index.js#combineReducers#96;/Users/paul_crump/seenit/repo/movie-search/app/redux/reducers/index.js#favouritesReducers#379;/Users/paul_crump/seenit/repo/movie-search/app/redux/reducers/index.js#movieDetailReducers#300;/Users/paul_crump/seenit/repo/movie-search/app/redux/reducers/index.js#movieListReducers#225;/Users/paul_crump/seenit/repo/movie-search/app/redux/reducers/index.js#reduxFormReducer#137;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/actions/index.js#TheMovieDbApi#50;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/actions/index.js#actions#8;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/index.js#actions#169;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieList/reducers/index.js#initialState#126;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-redux/es/index.js#Provider#7;/Users/paul_crump/seenit/repo/movie-search/node_modules/react-redux/es/index.js#connect#133;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/prop-types/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/redux/store/index.js#Tracking#255;/Users/paul_crump/seenit/repo/movie-search/app/redux/store/index.js#applyMiddleware#93;/Users/paul_crump/seenit/repo/movie-search/app/redux/store/index.js#compose#110;/Users/paul_crump/seenit/repo/movie-search/app/redux/store/index.js#createStore#119;/Users/paul_crump/seenit/repo/movie-search/app/redux/store/index.js#reducers#219;/Users/paul_crump/seenit/repo/movie-search/app/redux/store/index.js#thunk#154;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/redux/provider/index.js#Component#103;/Users/paul_crump/seenit/repo/movie-search/app/redux/provider/index.js#PropTypes#176;/Users/paul_crump/seenit/repo/movie-search/app/redux/provider/index.js#Provider#138;/Users/paul_crump/seenit/repo/movie-search/app/redux/provider/index.js#React#94;/Users/paul_crump/seenit/repo/movie-search/app/redux/provider/index.js#configureStore#244;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Pages/SearchPage/index.js#MasterLayout#231;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchPage/index.js#PropTypes#123;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchPage/index.js#React#96;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchPage/index.js#Search#285;/Users/paul_crump/seenit/repo/movie-search/app/Views/Pages/SearchPage/index.js#styled#159;</node>
+            <node x="" y="">BrowserRouter;Link;Redirect;Route;Switch;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/index.js#MovieDetail#206;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/index.js#actions#168;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/index.js#connect#99;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Common/PersonOverview/index.js#PropTypes#127;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/PersonOverview/index.js#React#100;/Users/paul_crump/seenit/repo/movie-search/app/Views/Common/PersonOverview/index.js#styled#163;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/redux-form/es/index.js#Field#779;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux-form/es/index.js#SubmissionError#495;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux-form/es/index.js#formValueSelector#923;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux-form/es/index.js#reducer#2079;/Users/paul_crump/seenit/repo/movie-search/node_modules/redux-form/es/index.js#reduxForm#2027;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/constants/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/index.js#actions#169;/Users/paul_crump/seenit/repo/movie-search/app/Views/Containers/MovieDetail/reducers/index.js#initialState#126;</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/Favourites/reducers/initialState.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieList/reducers/initialState.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/Views/Containers/MovieDetail/reducers/initialState.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.development.js#Component#54452;</node>
+            <node x="" y="">$PROJECT_DIR$/app/scripts/registerServiceWorker.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/styled-components/typings/styled-components.d.ts</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7281563126252505" x="185.86555662584283" y="-792.2339342232008" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/Search/components/Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="60" column="94" lean-forward="false" selection-start-line="60" selection-start-column="94" selection-end-line="60" selection-end-column="94" />
+          <folding>
+            <element signature="e#79#120#0" expanded="false" />
+            <element signature="e#395#465#0" expanded="false" />
+            <marker date="1508759422000" expanded="true" signature="1748:1749" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Pages/SearchPage/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#89#115#0" expanded="false" />
+            <element signature="e#224#277#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/__TextInputField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="39" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="81" lean-forward="false" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/TextInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+            <marker date="1508760098000" expanded="true" signature="357:358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Common/ReduxFormComponents/InputGroup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+            <marker date="1508760117000" expanded="true" signature="282:313" ph="..." />
+            <marker date="1508760117000" expanded="true" signature="369:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Views/Containers/MovieList/components/MovieList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+          <folding>
+            <marker date="1508760403000" expanded="true" signature="1683:1684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
